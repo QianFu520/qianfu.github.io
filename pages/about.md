@@ -1,7 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about
----
+title: "About Me"
+permalink: /about/
+ 
+ # About me
+ Hello! I'm Qian Fu, a data scientist with a background in learning analytics and educational data science. I completed my master's degree in applied data science and am passionate about using data to improve educational outcomes. In my free time, I enjoy working on personal data projects, learning new skills, and exploring the latest developments in data science.
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+My skills include Python, SQL, data visualization, and machine learning, and I'm actively expanding my knowledge in cloud computing and AWS.
+
+Feel free to explore my portfolio to learn more about my projects and experiences!
