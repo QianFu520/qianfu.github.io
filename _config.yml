@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  QianFu520
 
 # Build settings
-theme: Millennial
+
 plugins:
   - jekyll-feed
 
